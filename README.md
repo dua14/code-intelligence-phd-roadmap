@@ -9,3 +9,4 @@
 - [x] **Day 5**: Probability & Linear Algebra (Code Vector Embeddings & Similarity)
 - [x] **Day 6**: Weekend Deep Dive (Java Keyword Term-Frequency Script)
 - [x] **Day 7**: Weekly Review & Repository Sync
+- [ ]  [x] **Day 8**: Master Lowercasing, Regex tokenization for camelCase code, and Lemmatization.
