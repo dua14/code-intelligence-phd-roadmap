@@ -1,0 +1,6 @@
+.env
+*.pyc
+checkpoints/
+data/
+wandb/
+.ipynb_checkpoints/
